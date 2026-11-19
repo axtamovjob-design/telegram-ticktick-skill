@@ -1,0 +1,8 @@
+.jimm/
+.venv/
+__pycache__/
+*.pyc
+.env*
+*.token
+*.session
+api.json
